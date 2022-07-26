@@ -1,6 +1,6 @@
 # Udacity project - Web App with Azure Functions and Flask Webapp Front-end
 
-Used ressources:
+Implemented Azure ressources:
 - Cosmos DB
 - EventHub
 - FunctionApp and LogicApp
