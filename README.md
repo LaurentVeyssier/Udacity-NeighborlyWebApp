@@ -2,8 +2,9 @@
 
 Implemented Azure ressources:
 - Cosmos DB
-- EventHub
-- FunctionApp and LogicApp
+- FunctionApp
 - Webapp
-- SendGrid
+- EventHub
+- LogicApp with SendGrid
+- Azure Container Registry for Docker images
 - Kubernetes deployment
