@@ -15,6 +15,8 @@ Implemented Azure ressources in the project:
 - Azure Container Registry for Docker images
 - Kubernetes deployment
 
+All these tools provide strong backbone for my applications. I find them extremely powerfull to deploy ML/data apps and services at scale in a very orchestrated manner.
+
 # Output
 
 - Front-end webapp
