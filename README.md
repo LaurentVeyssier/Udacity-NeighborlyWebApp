@@ -1,4 +1,4 @@
-# Udacity project - Web App with Azure Functions and Flask Webapp Front-end
+# Udacity project - Azure Serverless Application with back-end Functions and Flask Webapp Front-end
 
 This project is part of Udacity Cloud Developer on Azure Nanodegree.
 
