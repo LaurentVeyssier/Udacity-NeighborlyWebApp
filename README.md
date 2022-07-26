@@ -16,6 +16,7 @@ Implemented Azure ressources in the project:
 # Output
 
 - Front-end webapp
+![](screenshots/live_frontend_deployed.jpg)
 
 - back-end live on Kubernetes
 
