@@ -19,6 +19,10 @@ Implemented Azure ressources in the project:
 ![](screenshots/live_frontend_deployed.jpg)
 
 - back-end live on Kubernetes
+![](screenshots/kubernetes_funcapp_deployment_confirmation.jpg)
 
 - LogicApp email notice using SendGrid
+![](screenshots/httpTrigger_emails.jpg)
 
+- Part of the implemented resources
+![](screenshots/ressource_group.jpg)
