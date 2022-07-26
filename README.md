@@ -8,7 +8,7 @@ The purpose of the project is to deploy a Flask web application hosting both ads
 
 Implemented Azure ressources in the project:
 - Cosmos DB
-- FunctionApp
+- FunctionApp (http triggered functions)
 - Webapp
 - EventHub
 - LogicApp with SendGrid
@@ -17,12 +17,11 @@ Implemented Azure ressources in the project:
 
 # Output
 
-
 - Front-end webapp
 
 ![](screenshots/live_frontend_deployed.jpg)
 
-- back-end live on Kubernetes
+- back-end live on Kubernetes cluster
 
 ![](screenshots/kubernetes_funcapp_deployment_confirmation.jpg)
 
@@ -30,6 +29,6 @@ Implemented Azure ressources in the project:
 
 ![](screenshots/httpTrigger_emails.jpg)
 
-- Part of the implemented resources
+- Some of the implemented resources
 
 ![](screenshots/ressource_group.jpg)
