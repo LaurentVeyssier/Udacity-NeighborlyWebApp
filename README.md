@@ -3,6 +3,7 @@
 Used ressources:
 - Cosmos DB
 - EventHub
-- LogicApp
+- FunctionApp and LogicApp
+- Webapp
 - SendGrid
 - Kubernetes deployment
