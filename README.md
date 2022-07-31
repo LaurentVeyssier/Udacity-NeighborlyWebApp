@@ -1,6 +1,6 @@
 # Udacity project - Azure Serverless Application with back-end Functions and Flask Webapp Front-end
 
-This project is part of Udacity Cloud Developer on Azure Nanodegree. It can be found here [https://github.com/udacity/nd081-c2-Building-and-deploying-cloud-native-applications-from-scratch-project-starter]
+This project is part of Udacity Cloud Developer on Azure Nanodegree. It can be found here [](https://github.com/udacity/nd081-c2-Building-and-deploying-cloud-native-applications-from-scratch-project-starter)
 
 It summarizes the third module dedicated to Azure Microservices. In this module, we cover Serverless functions (FunctionApps, WebApps,...), Logic Apps and Event Grid / Hub as well as Deployment (serverless, containerization with Docker and deployment to Kubernetes) plus security features. There are lots of hand-on practice culminating with this final project.
 
